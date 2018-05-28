@@ -1,0 +1,10 @@
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\bin\Debug\Project.Entity.dll.config
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\bin\Debug\Project.Entity.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\bin\Debug\Project.Entity.pdb
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\bin\Debug\EntityFramework.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\bin\Debug\EntityFramework.SqlServer.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\bin\Debug\EntityFramework.xml
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\bin\Debug\EntityFramework.SqlServer.xml
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\obj\Debug\Project.Entity.csprojResolveAssemblyReference.cache
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\obj\Debug\Project.Entity.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Entity\obj\Debug\Project.Entity.pdb

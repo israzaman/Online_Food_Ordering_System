@@ -1,0 +1,14 @@
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\Project.Core.dll.config
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\Project.Core.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\Project.Core.pdb
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\EntityFramework.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\Project.Data.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\Project.Entity.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\Project.Data.pdb
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\Project.Entity.pdb
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\EntityFramework.xml
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\obj\Debug\Project.Core.csprojResolveAssemblyReference.cache
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\obj\Debug\Project.Core.dll
+F:\isra\9th semester\ATP2\Project\MyFirstProject\Website\Project.Core\obj\Debug\Project.Core.pdb
